@@ -8,3 +8,5 @@ let fahrenheit = celsius * (9/5) + 32;
 fahrenheit = Math.floor(fahrenheit);
 
 console.log(`The temperature is ${fahrenheit} degrees Fahrenheit`);
+// This code was written with the assistance of Codeacademy.com. The site advised of the variables to use, suggested how to delcare them. Then what I did was use
+the information provided to correctly implement the code. 
